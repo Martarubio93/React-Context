@@ -1,4 +1,4 @@
-import ThemeContext from "../ThemeContext"
+import ThemeContext from "./ThemeContext"
 import React from "react"
 
 //Component consuming Context via React's useContext Hook

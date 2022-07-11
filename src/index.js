@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from 'react-dom';
-import App from "./App";
-import ThemeContext from "./ThemeContext";
+import App from "./Components/App";
+import ThemeContext from "./Components/ThemeContext";
 
 ReactDOM.render(
   <ThemeContext.Provider value="green">

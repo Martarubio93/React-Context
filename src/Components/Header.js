@@ -1,4 +1,4 @@
-import ThemeContext from "../ThemeContext"
+import ThemeContext from "./ThemeContext"
 
 //Component consuming Context via Consumer component
 const Header = () => {
